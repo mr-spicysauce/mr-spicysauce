@@ -1,6 +1,8 @@
 # Ello there 👋
 
 I'm Jack, also known as mr_spicysauce.
+
+
 I do shitty coding and make/play video games.
  
 ### 👨‍💻 About me
@@ -12,7 +14,7 @@ Nothings about me tbh
 </a>
 
 ### ⭐ Skills
-I am daimond 1 in valorant and I know a smoke line up for mirage ct spawn.
+I am diamond 1 in Valorant and I know a smoke line up for Mirage CT spawn.
 
 I build computers and I hate coding but I am here anyway!
 
