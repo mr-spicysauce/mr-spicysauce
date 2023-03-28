@@ -20,4 +20,6 @@ I build computers and I hate coding but I am here anyway!
 
 I want to learn to code but I am already mentally insane/dyslexic
 
+I know the basics or learning:
+
 [![My Skills](https://skillicons.dev/icons?i=godot,blender,linux,github)](https://skillicons.dev)
