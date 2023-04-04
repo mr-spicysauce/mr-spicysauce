@@ -7,7 +7,7 @@ I do shitty coding and make/play video games.
  
 ### 👨‍💻 About me
 
-Nothings about me tbh
+Nothing about me
 
 <a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
 	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=mr-spicysauce" alt="Contribution Stats" />
@@ -18,7 +18,7 @@ I am diamond 1 in Valorant and I know a smoke line up for Mirage CT spawn.
 
 I build computers and I hate coding but I am here anyway!
 
-I want to learn to code but I am already mentally insane/dyslexic
+I want to learn to code and make games but I am already mentally insane
 
 ### I know the basics or learning:
 
