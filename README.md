@@ -16,7 +16,7 @@ Nothing about me
 ### ⭐ Skills
 I am diamond 1 in Valorant and I know a smoke line up for Mirage CT spawn.
 
-I build computers and I hate coding but I am here anyway!
+I build computers and I hate coding but I am slowly enjoying it more!
 
 I want to learn to code and make games but I am already mentally insane
 
