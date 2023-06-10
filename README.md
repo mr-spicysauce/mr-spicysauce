@@ -9,7 +9,7 @@ I do shitty coding and make/play video games.
 	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=mr-spicysauce" alt="Contribution Stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-spicysauce&layout=compact)](https://github.com/mr-spicysauce/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-spicysauce&exclude_repo=ProjectVCSHolePuncher&layout=compact)](https://github.com/mr-spicysauce/github-readme-stats)
 
 ### ⭐ Skills
 I am diamond 1 in Valorant.
