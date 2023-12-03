@@ -3,7 +3,7 @@
 I'm Jack, also known as mr_spicysauce.
 
 
-I do shitty coding and make/play video games.
+I do coding and make/play video games.
 
 <a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
 	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=mr-spicysauce" alt="Contribution Stats" />
@@ -16,7 +16,7 @@ I am diamond 2 in Valorant.
 
 I know a fair amount of the godot game engine.
 
-I build computers and I hate coding but I am slowly enjoying it more!
+I build computers and develop games.
 
 I want to learn to code and make games as a job.
 
